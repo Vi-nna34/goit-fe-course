@@ -1,0 +1,49 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    margin: 28px auto 127px auto;
+}
+
+.logo {
+color: rgb(149, 225, 211);
+font-size: 30px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+}
+
+.logo_link {
+    color: rgb(149, 225, 211);
+}
+
+.logo_link:hover {
+    color: rgb(243, 129, 129);
+}
+
+.menu {
+    width: 490px;
+}
+
+.menu_list {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.item-y {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu_link {
+text-transform: uppercase;
+color: rgb(26, 188, 156);
+}
+
+.menu_link:hover {
+    color: rgb(243, 129, 129);
+    border-bottom: 3px solid rgb(243, 129, 129);
+}
+
