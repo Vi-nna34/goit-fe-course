@@ -1,0 +1,71 @@
+.main {
+text-align: center;
+margin: 0 auto;
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-bottom: 17px;
+}
+
+.services {
+    padding-bottom: 115px;
+}
+
+.lorem_text {
+    font-family: 'Source Serif Pro', serif;
+    color: #777777;
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    width: 934px;
+    margin: 0 auto;
+}
+
+.card {
+width: 274px;
+}
+
+.lorem_wrapper {
+    width: 274px;
+}
+
+.card_lorem {
+    font-family: 'Roboto Slab', serif;
+    color: #777777;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.card_title {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.img_wrapper {
+    border: 3px solid #fed136;
+    border-radius: 50%;
+    width: 68px;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 28px;
+}
+
+.img {
+    height: auto;
+}
+
+
+

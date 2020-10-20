@@ -1,0 +1,73 @@
+.contact {
+    background-color: #222222;
+    padding-top: 115px;
+    padding-bottom: 115px;
+    background-image: url('../Img/Map Image@1X.png');
+    background-size: 614px 537px;
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+
+.c_title {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    margin-bottom: 17px;
+}
+
+.c_text {
+    font-family: 'Source Serif Pro', serif;
+    color: #777777;
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+
+.f_wrapper {
+    
+}
+
+.form {
+    
+}
+
+.input_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input_name {
+    width: 455px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 19px 20px;
+    border: none;
+    background-color: #ffffff;
+    border-radius: 3px;
+    margin-bottom: 29px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.input_name_message {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    border-radius: 3px;
+    border: none;
+    padding: 20px 20px;
+}
+
+.input_send {
+    text-transform: uppercase;
+    background-color: #fed136;
+    color: #ffffff;
+    border: none;
+    padding: 25px 47px;
+    border-radius: 3px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}

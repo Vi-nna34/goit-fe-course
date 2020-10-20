@@ -1,0 +1,42 @@
+.header {
+display: flex;
+justify-content: space-between;
+margin-bottom: 120px;
+align-items: center;
+width: 933px;
+margin: 30px auto 127px auto;
+}
+
+.link_logo {
+    color: rgb(254, 209, 54);
+}
+
+.logo {
+    font-size: 36px;
+    font-family: 'Rouge Script', cursive;
+}
+
+.navigation {
+width: 490px;
+}
+
+.nav_menu {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.nav_item {
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.nav_link {
+    color:rgb(34, 34, 34);
+}
+
+.nav_link:hover {
+    color: rgb(254, 209, 54);
+}
