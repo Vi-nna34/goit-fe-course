@@ -25,16 +25,17 @@
 
 
 .form {
+    height: auto;
+    width: 950px;
+}
+
+.form_wrapper {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    height: auto;
 }
 
-.input_wrapper {
-    display: flex;
-    flex-direction: column;
-}
+
 
 .input_name {
     width: 455px;
